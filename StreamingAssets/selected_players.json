@@ -1,0 +1,432 @@
+[
+  {
+    "country": "Canada",
+    "country_short": "CAN",
+    "name": "Alistair Johnston",
+    "position": "DEF",
+    "rating": 78,
+    "is_starter": false,
+    "club_team": "Girona",
+    "club_league": "La Liga"
+  },
+  {
+    "country": "Canada",
+    "country_short": "CAN",
+    "name": "Moïse Bombito",
+    "position": "DEF",
+    "rating": 79,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Canada",
+    "country_short": "CAN",
+    "name": "Sam Adekugbe",
+    "position": "DEF",
+    "rating": 76,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Canada",
+    "country_short": "CAN",
+    "name": "Alphonso Davies",
+    "position": "FWD",
+    "rating": 87,
+    "is_starter": false,
+    "club_team": "Bayern Munich",
+    "club_league": "Bundesliga"
+  },
+  {
+    "country": "Canada",
+    "country_short": "CAN",
+    "name": "Cyle Larin",
+    "position": "FWD",
+    "rating": 79,
+    "is_starter": false,
+    "club_team": "Portland Timbers",
+    "club_league": "MLS"
+  },
+  {
+    "country": "Canada",
+    "country_short": "CAN",
+    "name": "Jonathan David",
+    "position": "FWD",
+    "rating": 85,
+    "is_starter": false,
+    "club_team": "LOSC Lille",
+    "club_league": "Ligue 1"
+  },
+  {
+    "country": "Canada",
+    "country_short": "CAN",
+    "name": "Maxime Crépeau",
+    "position": "GK",
+    "rating": 79,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Canada",
+    "country_short": "CAN",
+    "name": "Ismaël Koné",
+    "position": "MID",
+    "rating": 78,
+    "is_starter": false,
+    "club_team": "Marseille",
+    "club_league": "Ligue 1"
+  },
+  {
+    "country": "Canada",
+    "country_short": "CAN",
+    "name": "Liam Millar",
+    "position": "MID",
+    "rating": 74,
+    "is_starter": false,
+    "club_team": "Fulham",
+    "club_league": "Premier League"
+  },
+  {
+    "country": "Canada",
+    "country_short": "CAN",
+    "name": "Stephen Eustáquio",
+    "position": "MID",
+    "rating": 82,
+    "is_starter": false,
+    "club_team": "Portland Timbers",
+    "club_league": "MLS"
+  },
+  {
+    "country": "Canada",
+    "country_short": "CAN",
+    "name": "Tajon Buchanan",
+    "position": "MID",
+    "rating": 82,
+    "is_starter": false,
+    "club_team": "Club Brugge",
+    "club_league": "Pro League"
+  },
+  {
+    "country": "Mexico",
+    "country_short": "MEX",
+    "name": "César Montes",
+    "position": "DEF",
+    "rating": 78,
+    "is_starter": false,
+    "club_team": "Monterrey",
+    "club_league": "Liga MX"
+  },
+  {
+    "country": "Mexico",
+    "country_short": "MEX",
+    "name": "Gerardo Arteaga",
+    "position": "DEF",
+    "rating": 76,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Mexico",
+    "country_short": "MEX",
+    "name": "Jorge Sánchez",
+    "position": "DEF",
+    "rating": 75,
+    "is_starter": false,
+    "club_team": "América",
+    "club_league": "Liga MX"
+  },
+  {
+    "country": "Mexico",
+    "country_short": "MEX",
+    "name": "Kevin Álvarez",
+    "position": "DEF",
+    "rating": 74,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Mexico",
+    "country_short": "MEX",
+    "name": "Raúl Jiménez",
+    "position": "FWD",
+    "rating": 84,
+    "is_starter": false,
+    "club_team": "Fulham",
+    "club_league": "Premier League"
+  },
+  {
+    "country": "Mexico",
+    "country_short": "MEX",
+    "name": "Santiago Giménez",
+    "position": "FWD",
+    "rating": 85,
+    "is_starter": false,
+    "club_team": "Feyenoord",
+    "club_league": "Eredivisie"
+  },
+  {
+    "country": "Mexico",
+    "country_short": "MEX",
+    "name": "Guillermo Ochoa",
+    "position": "GK",
+    "rating": 80,
+    "is_starter": false,
+    "club_team": "UNAM Pumas",
+    "club_league": "Liga MX"
+  },
+  {
+    "country": "Mexico",
+    "country_short": "MEX",
+    "name": "Efraín Álvarez",
+    "position": "MID",
+    "rating": 75,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Mexico",
+    "country_short": "MEX",
+    "name": "Gilberto Mora",
+    "position": "MID",
+    "rating": 76,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Mexico",
+    "country_short": "MEX",
+    "name": "Héctor Herrera",
+    "position": "MID",
+    "rating": 79,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Mexico",
+    "country_short": "MEX",
+    "name": "Luis Chávez",
+    "position": "MID",
+    "rating": 78,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Portugal",
+    "country_short": "POR",
+    "name": "João Cancelo",
+    "position": "DEF",
+    "rating": 86,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Portugal",
+    "country_short": "POR",
+    "name": "Nuno Mendes",
+    "position": "DEF",
+    "rating": 84,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Portugal",
+    "country_short": "POR",
+    "name": "Rúben Dias",
+    "position": "DEF",
+    "rating": 88,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Portugal",
+    "country_short": "POR",
+    "name": "Cristiano Ronaldo",
+    "position": "FWD",
+    "rating": 88,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Portugal",
+    "country_short": "POR",
+    "name": "João Félix",
+    "position": "FWD",
+    "rating": 84,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Portugal",
+    "country_short": "POR",
+    "name": "Rafael Leão",
+    "position": "FWD",
+    "rating": 85,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Portugal",
+    "country_short": "POR",
+    "name": "Rui Patrício",
+    "position": "GK",
+    "rating": 83,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Portugal",
+    "country_short": "POR",
+    "name": "Bernardo Silva",
+    "position": "MID",
+    "rating": 88,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Portugal",
+    "country_short": "POR",
+    "name": "Bruno Fernandes",
+    "position": "MID",
+    "rating": 87,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Portugal",
+    "country_short": "POR",
+    "name": "João Palhinha",
+    "position": "MID",
+    "rating": 84,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Portugal",
+    "country_short": "POR",
+    "name": "William Carvalho",
+    "position": "MID",
+    "rating": 80,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Switzerland",
+    "country_short": "SUI",
+    "name": "Fabian Schär",
+    "position": "DEF",
+    "rating": 82,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Switzerland",
+    "country_short": "SUI",
+    "name": "Manuel Akanji",
+    "position": "DEF",
+    "rating": 85,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Switzerland",
+    "country_short": "SUI",
+    "name": "Nico Elvedi",
+    "position": "DEF",
+    "rating": 81,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Switzerland",
+    "country_short": "SUI",
+    "name": "Breel Embolo",
+    "position": "FWD",
+    "rating": 82,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Switzerland",
+    "country_short": "SUI",
+    "name": "Noah Okafor",
+    "position": "FWD",
+    "rating": 80,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Switzerland",
+    "country_short": "SUI",
+    "name": "Yann Sommer",
+    "position": "GK",
+    "rating": 85,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Switzerland",
+    "country_short": "SUI",
+    "name": "Denis Zakaria",
+    "position": "MID",
+    "rating": 81,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Switzerland",
+    "country_short": "SUI",
+    "name": "Granit Xhaka",
+    "position": "MID",
+    "rating": 84,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Switzerland",
+    "country_short": "SUI",
+    "name": "Remo Freuler",
+    "position": "MID",
+    "rating": 81,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  },
+  {
+    "country": "Switzerland",
+    "country_short": "SUI",
+    "name": "Xherdan Shaqiri",
+    "position": "MID",
+    "rating": 81,
+    "is_starter": false,
+    "club_team": "",
+    "club_league": ""
+  }
+]
