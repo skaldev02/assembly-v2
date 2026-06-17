@@ -1,0 +1,222 @@
+[
+  {
+    "country": "France",
+    "country_short": "FRA",
+    "name": "Jules Koundé",
+    "position": "DEF",
+    "rating": 86,
+    "is_starter": true,
+    "club_team": "Barcelona",
+    "club_league": "La Liga"
+  },
+  {
+    "country": "France",
+    "country_short": "FRA",
+    "name": "Raphaël Varane",
+    "position": "DEF",
+    "rating": 85,
+    "is_starter": true,
+    "club_team": "Manchester United",
+    "club_league": "Premier League"
+  },
+  {
+    "country": "France",
+    "country_short": "FRA",
+    "name": "Théo Hernández",
+    "position": "DEF",
+    "rating": 86,
+    "is_starter": true,
+    "club_team": "AC Milan",
+    "club_league": "Serie A"
+  },
+  {
+    "country": "France",
+    "country_short": "FRA",
+    "name": "William Saliba",
+    "position": "DEF",
+    "rating": 86,
+    "is_starter": true,
+    "club_team": "Arsenal",
+    "club_league": "Premier League"
+  },
+  {
+    "country": "France",
+    "country_short": "FRA",
+    "name": "Kylian Mbappé",
+    "position": "FWD",
+    "rating": 95,
+    "is_starter": true,
+    "club_team": "Real Madrid",
+    "club_league": "La Liga"
+  },
+  {
+    "country": "France",
+    "country_short": "FRA",
+    "name": "Michael Olise",
+    "position": "FWD",
+    "rating": 84,
+    "is_starter": false,
+    "club_team": "Bayern Munich",
+    "club_league": "Bundesliga"
+  },
+  {
+    "country": "France",
+    "country_short": "FRA",
+    "name": "Ousmane Dembélé",
+    "position": "FWD",
+    "rating": 86,
+    "is_starter": false,
+    "club_team": "Paris Saint-Germain",
+    "club_league": "Ligue 1"
+  },
+  {
+    "country": "France",
+    "country_short": "FRA",
+    "name": "Mike Maignan",
+    "position": "GK",
+    "rating": 88,
+    "is_starter": true,
+    "club_team": "AC Milan",
+    "club_league": "Serie A"
+  },
+  {
+    "country": "France",
+    "country_short": "FRA",
+    "name": "Adrien Rabiot",
+    "position": "MID",
+    "rating": 84,
+    "is_starter": true,
+    "club_team": "Juventus",
+    "club_league": "Serie A"
+  },
+  {
+    "country": "France",
+    "country_short": "FRA",
+    "name": "Aurélien Tchouaméni",
+    "position": "MID",
+    "rating": 86,
+    "is_starter": true,
+    "club_team": "Real Madrid",
+    "club_league": "La Liga"
+  },
+  {
+    "country": "France",
+    "country_short": "FRA",
+    "name": "Eduardo Camavinga",
+    "position": "MID",
+    "rating": 85,
+    "is_starter": false,
+    "club_team": "Real Madrid",
+    "club_league": "La Liga"
+  },
+  {
+    "country": "Senegal",
+    "country_short": "SEN",
+    "name": "Abdou Diallo",
+    "position": "DEF",
+    "rating": 80,
+    "is_starter": true,
+    "club_team": "RB Leipzig",
+    "club_league": "Bundesliga"
+  },
+  {
+    "country": "Senegal",
+    "country_short": "SEN",
+    "name": "Ismail Jakobs",
+    "position": "DEF",
+    "rating": 78,
+    "is_starter": true,
+    "club_team": "AS Monaco",
+    "club_league": "Ligue 1"
+  },
+  {
+    "country": "Senegal",
+    "country_short": "SEN",
+    "name": "Kalidou Koulibaly",
+    "position": "DEF",
+    "rating": 87,
+    "is_starter": true,
+    "club_team": "Chelsea",
+    "club_league": "Premier League"
+  },
+  {
+    "country": "Senegal",
+    "country_short": "SEN",
+    "name": "Moussa Niakhaté",
+    "position": "DEF",
+    "rating": 79,
+    "is_starter": false,
+    "club_team": "Nottingham Forest",
+    "club_league": "Premier League"
+  },
+  {
+    "country": "Senegal",
+    "country_short": "SEN",
+    "name": "Nicolas Jackson",
+    "position": "FWD",
+    "rating": 82,
+    "is_starter": false,
+    "club_team": "Chelsea",
+    "club_league": "Premier League"
+  },
+  {
+    "country": "Senegal",
+    "country_short": "SEN",
+    "name": "Sadio Mané",
+    "position": "FWD",
+    "rating": 86,
+    "is_starter": true,
+    "club_team": "Al-Nassr",
+    "club_league": "Saudi Pro League"
+  },
+  {
+    "country": "Senegal",
+    "country_short": "SEN",
+    "name": "Édouard Mendy",
+    "position": "GK",
+    "rating": 83,
+    "is_starter": true,
+    "club_team": "Chelsea",
+    "club_league": "Premier League"
+  },
+  {
+    "country": "Senegal",
+    "country_short": "SEN",
+    "name": "Bouna Sarr",
+    "position": "MID",
+    "rating": 76,
+    "is_starter": false,
+    "club_team": "Bayern Munich",
+    "club_league": "Bundesliga"
+  },
+  {
+    "country": "Senegal",
+    "country_short": "SEN",
+    "name": "Idrissa Gueye",
+    "position": "MID",
+    "rating": 82,
+    "is_starter": true,
+    "club_team": "Everton",
+    "club_league": "Premier League"
+  },
+  {
+    "country": "Senegal",
+    "country_short": "SEN",
+    "name": "Krepin Diatta",
+    "position": "MID",
+    "rating": 79,
+    "is_starter": false,
+    "club_team": "AS Monaco",
+    "club_league": "Ligue 1"
+  },
+  {
+    "country": "Senegal",
+    "country_short": "SEN",
+    "name": "Lamine Camara",
+    "position": "MID",
+    "rating": 80,
+    "is_starter": false,
+    "club_team": "AS Monaco",
+    "club_league": "Ligue 1"
+  }
+]
